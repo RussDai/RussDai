@@ -21,6 +21,21 @@ I combine classical techniques and modern AI tools to create scalable, impactful
   <img src="https://img.shields.io/badge/CrewAI-8A2BE2?style=for-the-badge&logo=crewAI&logoColor=white" alt="CrewAI"/>
 </p>
 
+## 🎓 **Education:**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-Master's%20Degree-informational?style=for-the-badge&logo=google-scholar&logoColor=white&color=8e2de2"/>
+</p>
+
+<p align="center">
+  📖 I am currently pursuing Masters in Data Science and Computational Intelligence at Coventry University 🇬🇧.
+</p>
+
+<p align="center">
+  <img src="https://th.bing.com/th/id/R.323b5c8b4b168eb52c48dc3d5993263f?rik=wDdKIhnffFp%2fyw&riu=http%3a%2f%2fwww.citizend.org%2fwp-content%2fuploads%2f2016%2f03%2fCoventry-University-Logo.png&ehk=j34zY9k%2fXcCX3hDJ9wh2pFZo8aZcMV945dpbM2KbQMo%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" alt="Coventry University Logo" width="200"/>
+</p>
+
+
 ## 📚 **Current Focus:**
 - 📊 Performing **`data analysis`** on real-world datasets.
 - 🔬 Exploring deeper into **`PyTorch`** and **`TensorFlow Core`**.
