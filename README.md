@@ -88,11 +88,7 @@ I combine classical techniques and modern AI tools to create scalable, impactful
 </p>
 
 ## 🚀 **Roadmap:**
-- To develop strong **`Analytical Skills`**.
-- Applying machine learning techniques to larger, production-grade datasets.
-- Strengthening foundations in **`deep learning architectures`**.
-- Building **`modular AI applications`** using advanced agent frameworks.
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=false&vCenter=true&multiline=true&width=800&height=150&lines=💡+Developing+strong+Analytical+Skills.;📈+Applying+ML+to+production-grade+datasets.;🔬+Strengthening+foundations+in+Deep+Learning.;🛠️+Building+modular+AI+Apps+with+Agent+Frameworks.&colors=red,blue,green,yellow)
 
 ## 🌐 **Connect With Me:**
 - 📫 **Email**: *russdataproject@gmail.com*
