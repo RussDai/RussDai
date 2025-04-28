@@ -65,6 +65,13 @@ I combine classical techniques and modern AI tools to create scalable, impactful
 - 🎮 Creating **`MCP Servers`** for experimental setups.
 - 🤖 Developing AI agents using **`LangChain`**, **`LlamaIndex`**, and **`CrewAI`**.
 
+### ✨ Highlights:
+- 📊 Performing data analysis on real-world, messy datasets.
+- 🔬 Diving deeper into **PyTorch** and **TensorFlow Core** internals.
+- 🧠 Building machine learning models with **Scikit-learn** and performing **Deep Data Analysis**.
+- 🎮 Creating **MCP Servers** for experimental setups and prototyping ideas.
+- 🤖 Developing **Next-Gen AI Agents** using **LangChain**, **LlamaIndex**, and **CrewAI** ecosystems.
+
 ## 📈 **GitHub Statistics:**
 
 <p align="center">
@@ -83,8 +90,3 @@ I combine classical techniques and modern AI tools to create scalable, impactful
 - 📫 **Email**: *russdataproject@gmail.com*
 - 💼 **LinkedIn**: [Click Here](https://www.linkedin.com/in/rajesh-kumar-dhimal-478901279/)
 - 🖥️ **Portfolio**: [Click Here](https://github.com/RussDai/Projects)
-
-<!---
-RussDai/RussDai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
